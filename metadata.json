@@ -1,0 +1,6 @@
+{
+  "name": "Folia",
+  "description": "Botanical plant identification, tailored care guides, health diagnostics, and multi-turn gardening assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
